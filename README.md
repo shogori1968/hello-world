@@ -1,2 +1,2 @@
 # hello-world
-first steps...
+first steps...in a computer world
